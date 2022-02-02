@@ -12,7 +12,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 include: 
  - source
 
-#logo: "/assets/images/just-the-docs.png"
+# logo: "/assets/images/asellus_logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
