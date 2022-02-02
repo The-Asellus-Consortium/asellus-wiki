@@ -6,8 +6,5 @@ description: intro
 permalink: /index
 ---
 
-# intro 
+# Welcome to the Asellus Wiki 
 
-blah blah blah
-
-I think you should add this!

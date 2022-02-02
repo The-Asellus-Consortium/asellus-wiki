@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Manuals
+title: Materials
 nav_order: 3
-description: manuals
-permalink: /manuals/
+permalink: /materials/
 has_children: true
 ---
 
